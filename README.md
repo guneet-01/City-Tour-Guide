@@ -1,2 +1,2 @@
 # City-Tour-Guide
-It enables users to map out a whole city tour, observe current traffic conditions, determine the shortest route between districts, as well as the shortest distance needed to traverse the entire city. The user can use it to arrange events that last all day.
+It helps user to Plan a full city tour, view current traffic conditions, find shortest distance between districts, find minimum distance to travel efficiently across the city, find fastest path. It also helps user to plan full day events.
